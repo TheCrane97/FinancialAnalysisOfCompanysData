@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Project.Controllers
+namespace FinancialAnalysis.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
